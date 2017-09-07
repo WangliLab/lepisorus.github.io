@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Postdoctor research associate
 subtitle: plant adaptation in high latitude and altitude regions / crop domestication 
 image: /img/portrait.jpg
 ---
