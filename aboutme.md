@@ -19,6 +19,10 @@ Since the very beginning of my scientific research, I have worked on various pla
 Between 2006 and 2011, I did my PhD with [Dr. Xianchun Zhang](http://sourcedb.ib.cas.cn/cn/expert/201212/t20121209_3702157.html) and [Dr. Harald Schneider](http://sourcedb.xtbg.cas.cn/zw/zjrck/yjy/201705/t20170505_4784092.html) to exploring the systematics and evolution of a fern group occurring on Qinghai-Tibetan Plateau.
 To follow my intention of expanding my skills on dealing with genomic dataset, I worked on how latitude adaptation and sexual dimorphism reflect on gene expression difference in poplar trees using transcriptome data with [Dr. Matt Olson](http://www.faculty.biol.ttu.edu/olson/Welcome.html).
 
+Quote:
+
+>"May your choice reflect your hopes, not your fears.
+>                                     --Nelson Mandela"
 
 
 
