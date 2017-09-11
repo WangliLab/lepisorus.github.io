@@ -1,23 +1,35 @@
 ---
 layout: page
 title: Research Projects
-subtitle: Science is fun, not all the times, but fun
+image: /img/portrait.jpg
 ---
-----
 
-## Project 1 - header two
+## parallel adaptation in maize highland landraces
+
+### with whole genome re-sequencing data
+
+### with de-novo assembled genomes
+
+
+
+## demography and its effect on distribution of deleterious mutations of maize and teosinte
+
+## sex dimorphism in _Populus balsamifera_
+
+
+## phylogeny, diversification and phylogeography of a fern genus - _Lepisorus_
+
+
+
 **emphasis**
 _Gossypium italianized_
 * question 1
   * sub
 * question 2
   1. test
-    
-      Description of 
   2. test
 
 
-## Project 2 - header two
 [Search for it.](www.google.com)
 
 Make some [refernce][a], and [again][b].
@@ -25,6 +37,7 @@ Make some [refernce][a], and [again][b].
 [b]:www.stumbleupon.com
 
 ![alt.text: A image of Octdrey Catburn](http://octodex.github.com/images/octdrey-catburn.jpg)
+
 
 Quote:
 
