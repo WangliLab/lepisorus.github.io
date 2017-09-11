@@ -48,7 +48,6 @@ Make some [refernce][a], and [again][b].
 
 Quote:
 
->"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!
->
->more pragraph"
+>"Fill your life with experiences, not things. Have stories to tell, not stuff to show."
+
 
