@@ -5,6 +5,11 @@ image: /img/portrait.jpg
 ---
 
 ## parallel adaptation in maize highland landraces
+Maize was domesticated in the lowlands of the Balsas River Valley in southwest Mexico. 
+Subsequent to domestication, maize spread from its center of origin to vastly different environments. 
+In some instances, similar new environments were occupied in parallel--for example, the cool highlands of Guatemala, the southwestern United States, the Mexican Central Plateau, and the Andes. 
+In the context of parallel highland colonization, we are investigating two primary evolutionary questions in maize: 1) What is the evidence for local adaptation to highland conditions? and 2) Have putative highland adaptations involved a similar set of alleles and/or loci? 
+We are currently using growth chamber experiments to assess evidence for local adaptation and taking a comparative genomic approach to identify candidate loci for adaptation. 
 
 ### with whole genome re-sequencing data
 
@@ -12,7 +17,9 @@ image: /img/portrait.jpg
 
 
 
-## demography and its effect on distribution of deleterious mutations of maize and teosinte
+## demography and its effect on distribution of deleterious mutations 
+
+
 
 ## sex dimorphism in _Populus balsamifera_
 
