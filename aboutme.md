@@ -2,8 +2,8 @@
 layout: page
 title: biography
 ---
+![](/img/portrait.jpg)
 
-image: /img/portrait.jpg
 
 ## For broader readers
 
