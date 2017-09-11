@@ -1,9 +1,10 @@
 ---
 layout: page
 title: biography
-subtitle: plant adaptation in high latitude and altitude regions / crop domestication 
-image: /img/portrait.jpg
 ---
+
+image: /img/portrait.jpg
+
 ## For broader readers
 
 I grew up in a small village of eastern China. A grand cycling trip as a college freshman inspired me to pursue a career in biological research. 
