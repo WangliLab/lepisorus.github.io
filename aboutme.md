@@ -2,6 +2,7 @@
 layout: page
 title: biography
 ---
+
 ![](/img/portrait.jpg)
 
 
