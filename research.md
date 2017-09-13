@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Projects
-permalink: /Research/
+img: ./img/portrait.jpg
 ---
 
 # My research system
