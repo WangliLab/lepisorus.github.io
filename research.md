@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Research Projects
-image: /img/portrait.jpg
+permalink: /Research/
 ---
+
+# My research system
 
 ## parallel adaptation in maize highland landraces
 Maize was domesticated in the lowlands of the Balsas River Valley in southwest Mexico. 
@@ -61,6 +63,7 @@ Background: Indehiscent sporangia are reported for only a few of derived leptosp
 Results: Independent phylogenetic relationships reconstructed using DNA sequences of the uniparentally inherited chloroplast genome and two low-copy nuclear genes confirmed the hypothesis of multiple origins of indehiscent sporangia and the restriction of particular haplotypes to indehiscent sporangia populations in the Lhasa and Nyingchi regions of the QTP. In contrast, the Hengduan Mountains were characterized by high haplotype diversity and the occurrence of accessions with and without indehiscent sporangia. Evidence was found for polyploidy and reticulate evolution in this complex. The putative case of chloroplast capture in the Nyingchi populations provided further evidence for the promotion of isolated but persistent populations by indehiscent sporangia.
 Conclusions: The presented results confirmed the hypothesis that indehiscent sporangia promote the establishment of persistent population in different regions of the QTP. These results are consistent with the expectations of reproductive reassurance by promotion of self-fertilization that played a critical role in the assembly of populations in isolated locations and/or extreme habitats.
 
+# My research interests
 
 
 **emphasis**

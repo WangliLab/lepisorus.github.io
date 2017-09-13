@@ -15,7 +15,7 @@ title: Pubications
 Timothy Beissinger, **Li Wang**, Kate Crosby, Arun Durvasula, Matthew B Hufford, Jeffrey Ross-Ibarra. 2016. Recent demography drives changes in linked selection across the maize genome. _Nature plants_ 2: 16084. [PDF](files/Beissinger2016.pdf)
 
 ## 2014
-**Li Wang**, Peter Tiffin, Matthew Olson. 2014. Timing for success: exprssion phenotype and local adaptation related to latitude in the boreal forest tree, Populus balsamifera. Tree Genetics and Genomes. DOI: 10.1007/s11295-014-0731-3. [PDF](files/wang2014populus.pdf)
+**Li Wang**, Peter Tiffin, Matthew Olson. 2014. Timing for success: exprssion phenotype and local adaptation related to latitude in the boreal forest tree, Populus balsamifera. _Tree Genetics and Genomes_. DOI: 10.1007/s11295-014-0731-3. [PDF](files/wang2014populus.pdf)
 
 ## 2013
 Harald Schneider, Lijuan He, Jeannine Marquardt, **Li Wang**, Jochen Heinrichs, Sabine Hennequin, Xianchun Zhang. 2013. Exploring the origin of the latitudinal diversity gradient: contrasting the sister fern genera _Phegopteris_ and _Pseudophegopteris_. _Journal of Systematics and Evolution_ 51: 61-70.[PDF](files/Schneider2013.pdf)
