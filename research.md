@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Research Projects
-img: ./img/portrait.jpg
+layout: default
 ---
 
 # My research system
