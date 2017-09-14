@@ -4,11 +4,11 @@ As a venue to accomplish the 30 minutes writing task per day and for the reason 
 
 Here I am listing the qualities, which I esteem a high rank for becoming a better scientist:
 
-1. Asking interesting questions
+* Asking interesting questions
 
 _It is not an easy one, based on a lot of reading of related topics and previous research and the ability to summarize things._
 
-2. Critic and logic thinking
+* Critic and logic thinking
 
 _Donot trust what the others said without your own thinking, even the most famous one. It is also based on the solid base of theory in your fields_
 
