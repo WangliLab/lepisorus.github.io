@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+img: /img/portrait.jpg
 ---
-
-![](/img/portrait.jpg)
 
 
 ## For broader readers
