@@ -5,11 +5,9 @@ image: /img/portrait.jpg
 ---
 ## parallel adaptation in _Zea mays_ 
 Subsequent to domestication, maize spread from its center of origin to several independent highland regions, such as Southwestern US highlands and the Andes. Highland maize demonstrated denser macrohair and darker pigmentation.
-
-<p align="center">
-  <img align="center" src="/files/parallelAdaptation1.png" width="500">
+<p align="left">
+  <img align="left" src="/files/parallelAdaptation1.png" width="500">
 </p>
-
 Using whole genome re-sequencing data of samples from six populations (four highland and two lowland populations), we are investigating two primary questions: 1) What is the evidence for local adaptation to highland conditions? and 2) Have putative highland adaptations involved a similar set of alleles, genes, or pathways? If yes, what are them and their functions?
 
 Using de-novo assembly of genomes of two highland and two lowland landraces (from Mexico and South America respectively), we are exploring the structure variation important for highland adaptation, such as gene presence absence variation (PAV), copy number variation (CNV), inversion polymorphism etc. 
@@ -18,22 +16,25 @@ Using de-novo assembly of genomes of two highland and two lowland landraces (fro
     <a href="http://lepisorus.github.io/files/co_anti_dir_summary.png"><img src="/files/co_anti_dir_summary.png" title="Loci under selection showed more frequent co-directional changes in allele frequencies than neutral loci between pairwise highland populations." width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
 </div>
 
+
 ## demography and mutation load in maize and its wild relatives 
 
-This study illustrates how demographic factors such as population size change and gene flow, in combination with natural selection, have historically shaped diversity across maize genomes and populations.
-Despite increases in census size, maize experienced several millennia of decline in diversity after the onset of domestication and during its spread across the Americas.
-This 'cost of domestication' has increased the prevalence of deleterious alleles in maize relative to its wild progenitor,  particularly in the Andes where maize appears to have undergone a dramatic founder event.
-During migration, certain populations of maize also captured new alleles from wild relatives, a process that appears to have reduced the burden of deleterious alleles.
-
 The history of maize has been characterized by major demographic events including changes in population size associated with domestication and range expansion as well as gene flow with wild relatives.
-The interplay between demographic history and selection has shaped diversity across maize populations and genomes.
-Here, we investigate these processes based on high-depth resequencing data from 31 maize landraces spanning the pre-Columbian distribution of maize as well as four wild progenitor individuals (\emph{Zea mays} ssp. \emph{parviglumis}) from the Balsas River Valley in Mexico.
-Genome-wide demographic analyses reveal that maize domestication and spread resulted in pronounced declines in effective population size due to both a protracted bottleneck and serial founder effects, while, concurrently, \emph{parviglumis} experienced population growth.
+These demographic factors, in combination with natural selection, have historically shaped diversity across maize genomes and populations.
+In this study, we investigated these processes based on high-depth resequencing data from 31 maize landraces spanning the pre-Columbian distribution of maize as well as four wild progenitor individuals (_Zea mays_ ssp. _parviglumis_) from the Balsas River Valley in Mexico.
+Genome-wide demographic analyses reveal that maize domestication and spread resulted in pronounced declines in effective population size due to both a protracted bottleneck and serial founder effects(characterized by gradual decline of genetic diversity when moving away from its origin center), while, concurrently, _parviglumis_ experienced population growth.
+<p align="left">
+  <img align="left" src="/files/Figure1.png" width="500">
+</p>
 The cost of maize domestication and spread was an increase in deleterious alleles in the domesticate relative to its wild progenitor.
 This cost is particularly pronounced in Andean maize, which appears to have experienced a more dramatic founder event when compared to other maize populations.
-Introgression from the wild teosinte \emph{Zea mays} ssp. \emph{mexicana} into maize in the highlands of Mexico and Guatemala is found to decrease the prevalence of deleterious alleles, likely due to the higher long-term effective population size of wild maize.
-These findings underscore the strong interaction between historical demography and the efficiency of selection species- and genome-wide and suggest domesticated species with well-characterized histories may be particularly useful for understanding this interplay.
-
+<p align="left">
+  <img align="left" src="/files/Figure3.png" width="500">
+</p>
+Introgression from the wild teosinte _Zea mays_ ssp. _mexicana_ into maize was not restricted to the sympatric highland population (Mexican Central Plateau), but also occur in non-sympatric Mesoamerica populations (Guatemalan and Southwestern US highland populations). The introgressed haplotypes were found to decrease the prevalence of deleterious alleles, likely due to the higher long-term effective population size of wild maize.
+<p align="left">
+  <img align="left" src="/files/Figure2.png" width="500">
+</p>
 
 ## sex dimorphism in _Populus balsamifera_
 
