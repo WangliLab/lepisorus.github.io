@@ -1,5 +1,7 @@
 ---
 layout: page
+title:biography
+subtitle: systematics and phylogenetics / plant evolutionary genomics / population genomics 
 img: /img/portrait.jpg
 ---
 

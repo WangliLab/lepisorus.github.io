@@ -1,23 +1,24 @@
 ---
-layout: default
+layout: page
+title:research
 ---
-
-# My research system
-
-## parallel adaptation in maize highland landraces
+## parallel adaptation in _Zea mays_
 Maize was domesticated in the lowlands of the Balsas River Valley in southwest Mexico. 
-Subsequent to domestication, maize spread from its center of origin to vastly different environments. 
-In some instances, similar new environments were occupied in parallel--for example, the cool highlands of Guatemala, the southwestern United States, the Mexican Central Plateau, and the Andes. 
-In the context of parallel highland colonization, we are investigating two primary evolutionary questions in maize: 1) What is the evidence for local adaptation to highland conditions? and 2) Have putative highland adaptations involved a similar set of alleles and/or loci? 
-We are currently using growth chamber experiments to assess evidence for local adaptation and taking a comparative genomic approach to identify candidate loci for adaptation. 
+Subsequent to domestication, maize spread from its center of origin to several independent highland regions, such as Southwestern US highlands and the Andes. 
 
-### with whole genome re-sequencing data
+Using whole genome re-sequencing data of samples from six populations (four highland and two lowland populations), we are investigating two primary questions: 1) What is the evidence for local adaptation to highland conditions? and 2) Have putative highland adaptations involved a similar set of alleles, genes, or pathways? If yes, what are them and their functions?
 
-### with de-novo assembled genomes
+Using de-novo assembly of genomes of two highland and two lowland landraces (from Mexico and South America respectively), we are exploring the structure variation important for highland adaptation, such as gene presence absence variation (PAV), copy number variation (CNV), inversion polymorphism etc. 
 
+<div style="float: left; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/parallelAdaptation1.png"><img src="/files/parallelAdaptation1.png" title="trait divergence" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
+</div>
 
+<div style="float: right; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/co_anti_dir_summary.pdf"><img src="/files/co_anti_dir_summary.pdf" title="Loci under selection showed more frequent co-directional changes in allele frequencies than neutral loci between pairwise highland populations." width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
+</div>
 
-## demography and its effect on distribution of deleterious mutations 
+## demography and mutation load in maize and its wild relatives 
 
 This study illustrates how demographic factors such as population size change and gene flow, in combination with natural selection, have historically shaped diversity across maize genomes and populations.
 Despite increases in census size, maize experienced several millennia of decline in diversity after the onset of domestication and during its spread across the Americas.
