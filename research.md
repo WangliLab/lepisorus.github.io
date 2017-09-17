@@ -1,6 +1,7 @@
 ---
 layout: page
-title: research
+title: Research
+image: /img/portrait.jpg
 ---
 ## parallel adaptation in _Zea mays_ 
 Subsequent to domestication, maize spread from its center of origin to several independent highland regions, such as Southwestern US highlands and the Andes. Highland maize demonstrated denser macrohair and darker pigmentation.
