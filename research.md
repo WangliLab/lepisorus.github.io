@@ -23,18 +23,23 @@ The history of maize has been characterized by major demographic events includin
 These demographic factors, in combination with natural selection, have historically shaped diversity across maize genomes and populations.
 In this study, we investigated these processes based on high-depth resequencing data from 31 maize landraces spanning the pre-Columbian distribution of maize as well as four wild progenitor individuals (_Zea mays_ ssp. _parviglumis_) from the Balsas River Valley in Mexico.
 Genome-wide demographic analyses reveal that maize domestication and spread resulted in pronounced declines in effective population size due to both a protracted bottleneck and serial founder effects(characterized by gradual decline of genetic diversity when moving away from its origin center), while, concurrently, _parviglumis_ experienced population growth.
-<p align="left">
-  <img align="left" src="/files/Figure1.png" width="500">
-</p>
+
+<div style="float: left; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/Figure1.png"><img src="/files/Figure1.png" title="distribution and demography" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'demography']);"></a>
+</div>
+
 The cost of maize domestication and spread was an increase in deleterious alleles in the domesticate relative to its wild progenitor.
 This cost is particularly pronounced in Andean maize, which appears to have experienced a more dramatic founder event when compared to other maize populations.
-<p align="left">
-  <img align="left" src="/files/Figure3.png" width="500">
-</p>
+
+<div style="float: left; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/Figure3.png"><img src="/files/Figure3.png" title="mutation load" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'demography']);"></a>
+</div>
+
 Introgression from the wild teosinte _Zea mays_ ssp. _mexicana_ into maize was not restricted to the sympatric highland population (Mexican Central Plateau), but also occur in non-sympatric Mesoamerica populations (Guatemalan and Southwestern US highland populations). The introgressed haplotypes were found to decrease the prevalence of deleterious alleles, likely due to the higher long-term effective population size of wild maize.
-<p align="left">
-  <img align="left" src="/files/Figure2.png" width="500">
-</p>
+
+<div style="float: left; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/Figure2.png"><img src="/files/Figure2.png" title="introgression" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'demography']);"></a>
+</div>
 
 ## sex dimorphism in _Populus balsamifera_
 
