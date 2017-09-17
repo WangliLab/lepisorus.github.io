@@ -2,20 +2,19 @@
 layout: page
 title:research
 ---
-## parallel adaptation in _Zea mays_
-Maize was domesticated in the lowlands of the Balsas River Valley in southwest Mexico. 
-Subsequent to domestication, maize spread from its center of origin to several independent highland regions, such as Southwestern US highlands and the Andes. 
-
-Using whole genome re-sequencing data of samples from six populations (four highland and two lowland populations), we are investigating two primary questions: 1) What is the evidence for local adaptation to highland conditions? and 2) Have putative highland adaptations involved a similar set of alleles, genes, or pathways? If yes, what are them and their functions?
-
-Using de-novo assembly of genomes of two highland and two lowland landraces (from Mexico and South America respectively), we are exploring the structure variation important for highland adaptation, such as gene presence absence variation (PAV), copy number variation (CNV), inversion polymorphism etc. 
+## parallel adaptation in _Zea mays_ 
+Subsequent to domestication, maize spread from its center of origin to several independent highland regions, such as Southwestern US highlands and the Andes. Highland maize demonstrated denser macrohair and darker pigmentation.
 
 <div style="float: left; padding-right: 15px">
     <a href="http://lepisorus.github.io/files/parallelAdaptation1.png"><img src="/files/parallelAdaptation1.png" title="trait divergence" width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
 </div>
 
+Using whole genome re-sequencing data of samples from six populations (four highland and two lowland populations), we are investigating two primary questions: 1) What is the evidence for local adaptation to highland conditions? and 2) Have putative highland adaptations involved a similar set of alleles, genes, or pathways? If yes, what are them and their functions?
+
+Using de-novo assembly of genomes of two highland and two lowland landraces (from Mexico and South America respectively), we are exploring the structure variation important for highland adaptation, such as gene presence absence variation (PAV), copy number variation (CNV), inversion polymorphism etc. 
+
 <div style="float: right; padding-right: 15px">
-    <a href="http://lepisorus.github.io/files/co_anti_dir_summary.pdf"><img src="/files/co_anti_dir_summary.pdf" title="Loci under selection showed more frequent co-directional changes in allele frequencies than neutral loci between pairwise highland populations." width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
+    <a href="http://lepisorus.github.io/files/co_anti_dir_summary.png"><img src="/files/co_anti_dir_summary.png" title="Loci under selection showed more frequent co-directional changes in allele frequencies than neutral loci between pairwise highland populations." width="200" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
 </div>
 
 ## demography and mutation load in maize and its wild relatives 
