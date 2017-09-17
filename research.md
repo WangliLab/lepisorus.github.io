@@ -5,9 +5,9 @@ title: research
 ## parallel adaptation in _Zea mays_ 
 Subsequent to domestication, maize spread from its center of origin to several independent highland regions, such as Southwestern US highlands and the Andes. Highland maize demonstrated denser macrohair and darker pigmentation.
 
-<div style="float: left; padding-right: 15px">
-    <a href="http://lepisorus.github.io/files/parallelAdaptation1.png"><img src="/files/parallelAdaptation1.png" title="trait divergence" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
-</div>
+<p align="center">
+  <img align="center" src="/files/parallelAdaptation1.png" width="500">
+</p>
 
 Using whole genome re-sequencing data of samples from six populations (four highland and two lowland populations), we are investigating two primary questions: 1) What is the evidence for local adaptation to highland conditions? and 2) Have putative highland adaptations involved a similar set of alleles, genes, or pathways? If yes, what are them and their functions?
 
@@ -61,24 +61,12 @@ Background: Indehiscent sporangia are reported for only a few of derived leptosp
 Results: Independent phylogenetic relationships reconstructed using DNA sequences of the uniparentally inherited chloroplast genome and two low-copy nuclear genes confirmed the hypothesis of multiple origins of indehiscent sporangia and the restriction of particular haplotypes to indehiscent sporangia populations in the Lhasa and Nyingchi regions of the QTP. In contrast, the Hengduan Mountains were characterized by high haplotype diversity and the occurrence of accessions with and without indehiscent sporangia. Evidence was found for polyploidy and reticulate evolution in this complex. The putative case of chloroplast capture in the Nyingchi populations provided further evidence for the promotion of isolated but persistent populations by indehiscent sporangia.
 Conclusions: The presented results confirmed the hypothesis that indehiscent sporangia promote the establishment of persistent population in different regions of the QTP. These results are consistent with the expectations of reproductive reassurance by promotion of self-fertilization that played a critical role in the assembly of populations in isolated locations and/or extreme habitats.
 
-# My research interests
 
 
-**emphasis**
-_Gossypium italianized_
-* question 1
-  * sub
-* question 2
-  1. test
-  2. test
 
-
-[Search for it.](www.google.com)
-
-Make some [refernce][a], and [again][b].
-[a]:www.zombo.com
-[b]:www.stumbleupon.com
-
+<div style="float: left; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/parallelAdaptation1.png"><img src="/files/parallelAdaptation1.png" title="trait divergence" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
+</div>
 ![alt.text: A image of Octdrey Catburn](http://octodex.github.com/images/octdrey-catburn.jpg)
 
 
