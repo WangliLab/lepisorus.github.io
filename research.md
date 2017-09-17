@@ -69,14 +69,6 @@ Results: Independent phylogenetic relationships reconstructed using DNA sequence
 Conclusions: The presented results confirmed the hypothesis that indehiscent sporangia promote the establishment of persistent population in different regions of the QTP. These results are consistent with the expectations of reproductive reassurance by promotion of self-fertilization that played a critical role in the assembly of populations in isolated locations and/or extreme habitats.
 
 
-
-
-<div style="float: left; padding-right: 15px">
-    <a href="http://lepisorus.github.io/files/parallelAdaptation1.png"><img src="/files/parallelAdaptation1.png" title="trait divergence" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'parallelAdaptation']);"></a>
-</div>
-![alt.text: A image of Octdrey Catburn](http://octodex.github.com/images/octdrey-catburn.jpg)
-
-
 Quote:
 
 >"Fill your life with experiences, not things. Have stories to tell, not stuff to show."
