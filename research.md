@@ -46,7 +46,11 @@ Introgression from the wild teosinte _Zea mays_ ssp. _mexicana_ into maize was n
 
 ## sex dimorphism in _Populus balsamifera_
 
-Traits that exhibit sexual dimorphism have been reported in dioecious plant species, but little is known about gene expression differences that may underlie these traits. General questions such as the commonality of sexual dimorphisms in dioecious plants, how and whether dimorphisms evolve in similar tissues and for similar traits in different dioecious taxa, and the forms of natural or sexual selection that drive the evolution of these sexual dimorphisms remain relatively unexplored. We compared gene expression in male and female flowers and leaves of _Populus balsamifera_ to assess the extent of sex-biased expression. RNA-seq was used to estimate steady-state transcript abundance in leaves and flowers for five males and five females. We quantified differential gene expression between male and female leaves and flowers, functionally annotated the resulting genes with MapMan and topGO, and estimated rates of dN/dS using paml. We found sex-biased expression is prominent in flowers, but minimal in leaves. Among sex-biased genes in flowers, photosynthetic pathways was enriched and dominated with female-biased genes (up-regulated in female); whereas the other enriched pathway - mitochondrial regulatory pathways was mainly composed of male-biased genes. Sex-biased or sex-limited genes did not exhibit elevated rates of protein evolution, contrary to predictions from other studies in animals and plants, which might support the hypotheses of sexual homomorphism in secondary sexual characteristics of poplars, and indicated that ongoing disruptive selection driving dimorphisms in primary floral tissues is weak.
+Traits that exhibit sexual dimorphism have been reported in dioecious plant species, but little is known about gene expression differences that may underlie these traits. General questions such as the commonality of sexual dimorphisms in dioecious plants, how and whether dimorphisms evolve in similar tissues and for similar traits in different dioecious taxa, and the forms of natural or sexual selection that drive the evolution of these sexual dimorphisms remain relatively unexplored. We compared gene expression in male and female flowers and leaves of _Populus balsamifera_ to assess the extent of sex-biased expression. RNA-seq was used to estimate steady-state transcript abundance in leaves and flowers for five males and five females. We quantified differential gene expression between male and female leaves and flowers, functionally annotated the resulting genes with MapMan and topGO, and estimated rates of dN/dS using paml. We found sex-biased expression is prominent in flowers, but minimal in leaves. Among sex-biased genes in flowers, photosynthetic pathways was enriched and dominated with female-biased genes (up-regulated in female); whereas the other enriched pathway - mitochondrial regulatory pathways was mainly composed of male-biased genes. Sex-biased or sex-limited genes did not exhibit elevated rates of protein evolution, contrary to predictions from other studies in animals and plants.
+
+<div style="float: center; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/FigureMetabolismPathway.png"><img src="/files/FigureMetabolismPathway.png" title="MetabolismPathway" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'sex']);"></a>
+</div>
 
 ## phylogeny, diversification and phylogeography of a fern genus - _Lepisorus_
 
@@ -54,14 +58,19 @@ _Lepisorus_ is a derived fern genus and distributed mainly in the Southwest chin
 * What is the phylogenetic relationship of species within the genus and what kind of traits could be used to define the sections and species?
 * Have the rise of Qinghai-Tebetan Plateau (QTP) and the incurred change of monsoon regimes accelerated the diversification of species in the genus?
 
+<div style="float: center; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/diversification.jpg"><img src="/files/diversification.jpg" title="diversification" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'diversification']);"></a>
+</div>
+
 Within the genus, the _Lepisorus clathratus_ complex mainly occurred at  QTP and its southern and southeastern mountain ranges, Himalaya-Hengduan Mountains (HHM). We are fascinated with the following questions: 
 
 * How did ferns occurring in QTP and HHM change their distribution ranges in response to Quaternary climatic oscillations?
-* Did specific traits help these ferns adapt to QTP? 
-
-_Indehiscent sporangia promoted self fertilization, reassured the reproductive success and thus help establish persistent populations in in isolated locations and/or extreme habitats on QTP._
+* Did specific traits help these ferns adapt to QTP? (_Indehiscent sporangia promoted self fertilization, reassured the reproductive success and thus help establish persistent populations in isolated locations and/or extreme habitats on QTP._)
 * How did polyploidization and putative hybridization correlated with high altitude adaptation?
 
+<div style="float: center; padding-right: 15px">
+    <a href="http://lepisorus.github.io/files/clathratusQTP.png"><img src="/files/clathratusQTP.png" title="clathratusHaplotypes" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'clathratusHaplotypes']);"></a>
+</div>
 
 
 

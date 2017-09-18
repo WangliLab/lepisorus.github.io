@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Welcome!
+title: Li Wang
+subtitle: Evolutionary biologist, Population genticist
 image: /img/portrait.jpg
 ---
 
