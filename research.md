@@ -44,12 +44,18 @@ Introgression from the wild teosinte _Zea mays_ ssp. _mexicana_ into maize was n
     <a href="http://lepisorus.github.io/files/Figure2.png"><img src="/files/Figure2.png" title="introgression" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'demography']);"></a>
 </div>
 
+
 ## sex dimorphism in _Populus balsamifera_
 
-Traits that exhibit sexual dimorphism have been reported in dioecious plant species, but little is known about gene expression differences that may underlie these traits. We compared gene expression in male and female flowers and leaves of Populus balsamifera to assess the extent of sex-biased expression. 
-RNA-seq was used to estimate steady-state transcript abundance in leaves and flowers for five males and five females. We quantified differential gene expression between male and female leaves and flowers, functionally annotated the resulting genes with MapMan and topGO, and estimated rates of dN/dS using paml.
-Over 11,000 genes showed sex-biased expression in flowers, including PbRR9, a gene located in the sex determination region and the only gene that exhibits sex-biased methylation. Only one gene, of unknown function, was differentially expressed in male and female leaves. Female-biased genes were associated with photosynthetic pathways, whereas male-biased genes were associated with mitochondrial regulatory pathways. Sex-limited genes did not exhibit elevated rates of protein evolution, contrary to predictions from other studies in animals and plants. 
-Our study supports recent hypotheses of sexual homomorphism in secondary sexual characteristics of poplars, and indicated that ongoing disruptive selection driving dimorphisms in primary floral tissues is weak.
+Traits that exhibit sexual dimorphism have been reported in dioecious plant species, but little is known about gene expression differences that may underlie these traits. General questions such as the commonality of sexual dimorphisms in dioecious plants, how and whether dimorphisms evolve in similar tissues and for similar traits in different dioecious taxa, and the forms of natural or sexual selection that drive the evolution of these sexual dimorphisms remain relatively unexplored.
+
+We compared gene expression in male and female flowers and leaves of _Populus balsamifera_ to assess the extent of sex-biased expression. RNA-seq was used to estimate steady-state transcript abundance in leaves and flowers for five males and five females. We quantified differential gene expression between male and female leaves and flowers, functionally annotated the resulting genes with MapMan and topGO, and estimated rates of dN/dS using paml.
+
+We found sex-biased expression is prominent in flowers, but minimal in leaves. 
+Among sex-biased genes in flowers, photosynthetic pathways was enriched and dominated with female-biased genes (up-regulated in female); whereas the other enriched pathway - mitochondrial regulatory pathways was mainly composed of male-biased genes. 
+Sex-biased or sex-limited genes did not exhibit elevated rates of protein evolution, contrary to predictions from other studies in animals and plants, which might support
+the hypotheses of sexual homomorphism in secondary sexual characteristics of poplars, and indicated that ongoing disruptive selection driving dimorphisms in primary floral tissues is weak.
+
 
 
 ## phylogeny, diversification and phylogeography of a fern genus - _Lepisorus_
