@@ -28,6 +28,9 @@ Genome-wide demographic analyses reveal that maize domestication and spread resu
     <a href="http://lepisorus.github.io/files/Figure1.png"><img src="/files/Figure1.png" title="distribution and demography" width="600" border="0" onClick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'demography']);"></a>
 </div>
 
+      <center><img src="/files/Figure1.png"></center>
+      <center>distribution and demography</center>
+
 The cost of maize domestication and spread was an increase in deleterious alleles in the domesticate relative to its wild progenitor.
 This cost is particularly pronounced in Andean maize, which appears to have experienced a more dramatic founder event when compared to other maize populations.
 
